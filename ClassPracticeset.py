@@ -13,3 +13,5 @@ print(A)
 
 A.remove("Banana")
 print(A)
+
+print("hii")
